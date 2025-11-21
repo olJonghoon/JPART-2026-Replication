@@ -14,7 +14,7 @@
 clear all
 
 cd "./"
-use "./main.dta", clear
+use "./Master.dta", clear
 cd "./Analysis/"
 
 tsset Year
