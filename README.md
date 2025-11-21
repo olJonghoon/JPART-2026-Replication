@@ -12,7 +12,7 @@ Date: November 2025
 ---
 
 OVERVIEW  
-This replication package includes all data, R & Stata code, and figures necessary to reproduce the results reported in the manuscript “Travel to allies or adversaries? A compositional analysis of U.S. diplomatic visits.” 
+This replication package includes data, Stata code, and figures necessary to reproduce the results reported in the manuscript “How Do Public Agencies Respond to Budgetary Control? A Theory of Strategic Task Portfolios in Public Administration.” 
 
 ---
 
